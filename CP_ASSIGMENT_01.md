@@ -30,6 +30,6 @@ This folder contains all **Computer Programming Lab assignments** completed duri
 
 ## 👨‍💻 Author
 
-**Talha Ali**  
+**Wahid Ullah**  
 Electrical Engineering (Power)  
 UET Nowshera Campus  
